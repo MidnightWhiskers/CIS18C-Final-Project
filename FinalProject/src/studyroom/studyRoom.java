@@ -4,8 +4,7 @@ import java.util.ArrayList;
 
 /**
  *studyRoom is an ArrayList of reservations
- *Users may request and cancel study room it if wanted
- *Ability to increase the number of study rooms
+ *Users may request and cancel study room if wanted
  */
 
 public class studyRoom {
